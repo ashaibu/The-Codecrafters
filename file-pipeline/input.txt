@@ -1,0 +1,5 @@
+Trim
+replace TODO
+Replace CLASSIFIED
+Remove empty or dash lines
+ Add line number

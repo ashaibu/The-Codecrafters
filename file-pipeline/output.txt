@@ -1,0 +1,5 @@
+001. Trim
+002. replace TODO
+003. Replace CLASSIFIED
+004. Remove empty or dash lines
+005. Add line number
