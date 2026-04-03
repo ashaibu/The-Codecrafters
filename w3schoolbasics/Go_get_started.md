@@ -1,0 +1,1 @@
+Install Go + VS Code → write code → run with go run.
